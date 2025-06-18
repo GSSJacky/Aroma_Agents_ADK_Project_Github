@@ -1,7 +1,3 @@
-好的，以下是参考 [Google ADK 示例：auto-insurance-agent](https://github.com/google/adk-samples/blob/main/python/agents/auto-insurance-agent/README.md) 风格撰写的英文版 `README.md`，用于你的 `Aroma_Agents` 项目。
-
----
-
 # Aroma Agents: Multi-Stage Emotional Support System
 
 **Aroma Agents** is a multi-agent emotional wellness pipeline powered by large language models and the [Google Agent Development Kit (ADK)](https://github.com/google/adk-python). The system interprets user input to detect emotional context and delivers personalized aroma suggestions, herbal mappings, music generation, and gentle voice-based support.
