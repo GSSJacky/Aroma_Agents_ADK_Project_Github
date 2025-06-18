@@ -1,0 +1,21 @@
+[project]
+name = "Aroma_Agents"
+version = "0.1.0"
+description = "A multi-stage LLM agent pipeline for emotional support via aroma, music, and encouragement."
+authors = [{ name = "Jacky Xu", email = "xuzhengzhi@gmail.com" }]
+license = "Apache-2.0"
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.10"
+google-adk = "^1.0.0"
+google-generativeai = "^0.3.2"
+pydantic = "^2.10.6"
+python-dotenv = "^1.0.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+
+[tool.adk]
+entry_point = "Aroma_Agents.agent"
