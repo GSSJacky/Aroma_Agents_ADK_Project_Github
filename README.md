@@ -36,6 +36,10 @@ graph TD
 Each agent is modular and communicates via structured inputs and outputs defined with Pydantic.
 
 ---
+## Architecture
+![Architecture](https://github.com/GSSJacky/Aroma_Agents_ADK_Project_Github/blob/main/Aroma_Agents_ADK_architecture.png?raw=true)
+
+---
 
 ## 🔧 Project Structure
 
